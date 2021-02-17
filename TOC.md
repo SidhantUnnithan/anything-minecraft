@@ -9,6 +9,7 @@
   - Setup
     - [Basic Setup](tutorials/en_us/SETUP/BASIC.md)
     - [Setup on a RasPi](tutorials/en_us/SETUP/RASPI.md)
+    - [Optimization](tutorials/en_us/JARS/OPTIMIZATION.md)
 - Info
   - Plugins
     - [Useful Plugins](info/en_us/PLUGINS/USEFUL_PLUGINS.md)
